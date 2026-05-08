@@ -2,8 +2,13 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/YOUR_COLAB_LINK_HERE)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+
+**Dairy Cattle Breed Classifier**[![Open Breed Classifier](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1W1Hkxan0lV5QdbfjhoJ_qd0Hw9Zcc765?usp=sharing)
+
+**Dog Facial Similarity Identification**[![Open Dog Identifier](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fKkw_ruT3WLy8VpOeJn3JF9_-PuxBNbI?usp=sharing)
+
 
 An advanced computer vision project focused on animal identification and breed classification. This repository features two primary systems: a **Dairy Cattle Breed Classifier** and a **Dog Facial Similarity Identification** engine.
 
